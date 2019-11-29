@@ -342,7 +342,7 @@
             "brightWhite" : "#F2F2F2",
             "brightYellow" : "#F9F1A5",
             "cyan" : "#3A96DD",
-            "foreground" : "#13A10E",
+            "foreground" : "#CCCCCC",
             "green" : "#13A10E",
             "name" : "Campbell",
             "purple" : "#881798",
